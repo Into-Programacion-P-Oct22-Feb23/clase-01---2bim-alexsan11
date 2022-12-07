@@ -18,9 +18,10 @@ public class Pregunta08 {
         int n;
         n = 2;
         while (n<=3) {
+            System.out.println(n);
             n = n + 1;
         }
-        System.out.println(n);
+       System.out.println(n);
         
     }
     
